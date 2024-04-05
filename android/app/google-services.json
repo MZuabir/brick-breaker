@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "525020543295",
+    "project_id": "brick-breaker-b4df1",
+    "storage_bucket": "brick-breaker-b4df1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525020543295:android:b43823a79a8b1ae985fb8a",
+        "android_client_info": {
+          "package_name": "com.example.brick_breaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525020543295-u595v7aj5manl1e10u752lrrmpjrhloc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgfbqy3fdWbqdgI3YBcT0FaC891njo-so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525020543295-u595v7aj5manl1e10u752lrrmpjrhloc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525020543295-k3tdbr2cevh8qim5ed3kqifsj7djke2b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brickBreaker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
